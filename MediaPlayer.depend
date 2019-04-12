@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1555070231 source:/home/eran/Documents/CPP/MediaPlayer/App.cpp
+	"App.h"
+
+1555059697 /home/eran/Documents/CPP/MediaPlayer/App.h
+	<stdio.h>
+	<string>
+	<iostream>
+	"ListIndex.h"
+	"Playlist.h"
+	"Track.h"
+	"TrackParser.h"
+
+1555053510 /home/eran/Documents/CPP/MediaPlayer/ListIndex.h
+	"List_base.h"
+
+1555056322 /home/eran/Documents/CPP/MediaPlayer/List_base.h
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<iostream>
+	<algorithm>
+	<vector>
+
+1555053388 /home/eran/Documents/CPP/MediaPlayer/Playlist.h
+	"List_base.h"
+
+1555053672 /home/eran/Documents/CPP/MediaPlayer/Track.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1555053697 /home/eran/Documents/CPP/MediaPlayer/TrackParser.h
+	<string>
+	<iostream>
+
+1555069762 source:/home/eran/Documents/CPP/MediaPlayer/List_base.cpp
+	"List_base.h"
+
+1555069674 source:/home/eran/Documents/CPP/MediaPlayer/ListIndex.cpp
+	"ListIndex.h"
+
+1555053573 source:/home/eran/Documents/CPP/MediaPlayer/main.cpp
+	<iostream>
+	"App.h"
+
+1555069738 source:/home/eran/Documents/CPP/MediaPlayer/Playlist.cpp
+	"Playlist.h"
+
+1555058651 source:/home/eran/Documents/CPP/MediaPlayer/Track.cpp
+	"Track.h"
+
+1555053734 source:/home/eran/Documents/CPP/MediaPlayer/TrackParser.cpp
+	"TrackParser.h"
+
